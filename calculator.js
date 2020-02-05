@@ -15,3 +15,4 @@ function equal() {
 function back() {
     input.value = input.value.substring(0, input.value.length - 1)
 }
+
